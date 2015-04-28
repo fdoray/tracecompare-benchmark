@@ -1,0 +1,2600 @@
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1246s
+    total number of events:              10000
+    total time taken by event execution: 9.1230s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.14ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1230/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1313s
+    total number of events:              10000
+    total time taken by event execution: 9.1296s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1296/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1300s
+    total number of events:              10000
+    total time taken by event execution: 9.1283s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1283/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1311s
+    total number of events:              10000
+    total time taken by event execution: 9.1294s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1294/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1319s
+    total number of events:              10000
+    total time taken by event execution: 9.1302s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1302/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1308s
+    total number of events:              10000
+    total time taken by event execution: 9.1291s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1291/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1353s
+    total number of events:              10000
+    total time taken by event execution: 9.1336s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1336/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1247s
+    total number of events:              10000
+    total time taken by event execution: 9.1230s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1230/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1254s
+    total number of events:              10000
+    total time taken by event execution: 9.1237s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.22ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1237/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1253s
+    total number of events:              10000
+    total time taken by event execution: 9.1237s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1237/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1284s
+    total number of events:              10000
+    total time taken by event execution: 9.1268s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1268/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1253s
+    total number of events:              10000
+    total time taken by event execution: 9.1237s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1237/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1238s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1238/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1251s
+    total number of events:              10000
+    total time taken by event execution: 9.1234s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1234/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1245s
+    total number of events:              10000
+    total time taken by event execution: 9.1225s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.01ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1225/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1257s
+    total number of events:              10000
+    total time taken by event execution: 9.1240s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1240/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1249s
+    total number of events:              10000
+    total time taken by event execution: 9.1232s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1232/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1243s
+    total number of events:              10000
+    total time taken by event execution: 9.1226s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1226/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1248s
+    total number of events:              10000
+    total time taken by event execution: 9.1231s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1231/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1248s
+    total number of events:              10000
+    total time taken by event execution: 9.1231s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1231/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1250s
+    total number of events:              10000
+    total time taken by event execution: 9.1233s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1233/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1238s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1238/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1253s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1236s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1236/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1308s
+    total number of events:              10000
+    total time taken by event execution: 9.1292s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1292/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1314s
+    total number of events:              10000
+    total time taken by event execution: 9.1297s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1297/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1249s
+    total number of events:              10000
+    total time taken by event execution: 9.1232s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1232/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1283s
+    total number of events:              10000
+    total time taken by event execution: 9.1265s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1265/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1239s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1239/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1284s
+    total number of events:              10000
+    total time taken by event execution: 9.1267s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1267/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1265s
+    total number of events:              10000
+    total time taken by event execution: 9.1248s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1248/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1311s
+    total number of events:              10000
+    total time taken by event execution: 9.1294s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1294/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1323s
+    total number of events:              10000
+    total time taken by event execution: 9.1306s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1306/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1250s
+    total number of events:              10000
+    total time taken by event execution: 9.1233s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1233/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1313s
+    total number of events:              10000
+    total time taken by event execution: 9.1296s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1296/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1320s
+    total number of events:              10000
+    total time taken by event execution: 9.1303s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1303/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1301s
+    total number of events:              10000
+    total time taken by event execution: 9.1284s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1284/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1251s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1318s
+    total number of events:              10000
+    total time taken by event execution: 9.1300s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1300/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1261s
+    total number of events:              10000
+    total time taken by event execution: 9.1244s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1244/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1261s
+    total number of events:              10000
+    total time taken by event execution: 9.1244s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1244/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1276s
+    total number of events:              10000
+    total time taken by event execution: 9.1259s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1259/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1275s
+    total number of events:              10000
+    total time taken by event execution: 9.1258s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1258/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1318s
+    total number of events:              10000
+    total time taken by event execution: 9.1301s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1301/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1315s
+    total number of events:              10000
+    total time taken by event execution: 9.1297s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1297/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1261s
+    total number of events:              10000
+    total time taken by event execution: 9.1245s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1245/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1265s
+    total number of events:              10000
+    total time taken by event execution: 9.1248s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1248/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1260s
+    total number of events:              10000
+    total time taken by event execution: 9.1243s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1243/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1328s
+    total number of events:              10000
+    total time taken by event execution: 9.1311s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.14ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1311/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1324s
+    total number of events:              10000
+    total time taken by event execution: 9.1307s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1307/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1321s
+    total number of events:              10000
+    total time taken by event execution: 9.1303s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1303/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1238s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1238/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1416s
+    total number of events:              10000
+    total time taken by event execution: 9.1399s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1399/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1322s
+    total number of events:              10000
+    total time taken by event execution: 9.1305s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1305/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1322s
+    total number of events:              10000
+    total time taken by event execution: 9.1305s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1305/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1307s
+    total number of events:              10000
+    total time taken by event execution: 9.1290s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1290/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1256s
+    total number of events:              10000
+    total time taken by event execution: 9.1239s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1239/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1260s
+    total number of events:              10000
+    total time taken by event execution: 9.1243s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.24ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1243/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1238s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1238/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1359s
+    total number of events:              10000
+    total time taken by event execution: 9.1342s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1342/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1325s
+    total number of events:              10000
+    total time taken by event execution: 9.1309s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1309/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1261s
+    total number of events:              10000
+    total time taken by event execution: 9.1244s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1244/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1251s
+    total number of events:              10000
+    total time taken by event execution: 9.1234s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1234/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1256s
+    total number of events:              10000
+    total time taken by event execution: 9.1240s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1240/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1321s
+    total number of events:              10000
+    total time taken by event execution: 9.1304s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1304/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1272s
+    total number of events:              10000
+    total time taken by event execution: 9.1254s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1254/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1325s
+    total number of events:              10000
+    total time taken by event execution: 9.1307s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1307/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1267s
+    total number of events:              10000
+    total time taken by event execution: 9.1250s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1250/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1354s
+    total number of events:              10000
+    total time taken by event execution: 9.1337s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1337/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1313s
+    total number of events:              10000
+    total time taken by event execution: 9.1295s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1295/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1318s
+    total number of events:              10000
+    total time taken by event execution: 9.1301s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1301/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1255s
+    total number of events:              10000
+    total time taken by event execution: 9.1238s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1238/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1330s
+    total number of events:              10000
+    total time taken by event execution: 9.1313s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1313/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1334s
+    total number of events:              10000
+    total time taken by event execution: 9.1316s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.21ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1316/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1358s
+    total number of events:              10000
+    total time taken by event execution: 9.1340s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1340/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1316s
+    total number of events:              10000
+    total time taken by event execution: 9.1300s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1300/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1316s
+    total number of events:              10000
+    total time taken by event execution: 9.1298s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1298/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1323s
+    total number of events:              10000
+    total time taken by event execution: 9.1305s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1305/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.19ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1286s
+    total number of events:              10000
+    total time taken by event execution: 9.1270s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1270/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1265s
+    total number of events:              10000
+    total time taken by event execution: 9.1248s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.13ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1248/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1263s
+    total number of events:              10000
+    total time taken by event execution: 9.1246s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.26ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1246/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1275s
+    total number of events:              10000
+    total time taken by event execution: 9.1258s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1258/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1250s
+    total number of events:              10000
+    total time taken by event execution: 9.1232s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1232/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1260s
+    total number of events:              10000
+    total time taken by event execution: 9.1242s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.17ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1242/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1259s
+    total number of events:              10000
+    total time taken by event execution: 9.1242s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1242/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1330s
+    total number of events:              10000
+    total time taken by event execution: 9.1313s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1313/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1319s
+    total number of events:              10000
+    total time taken by event execution: 9.1301s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1301/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1247s
+    total number of events:              10000
+    total time taken by event execution: 9.1230s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.16ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1230/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1310s
+    total number of events:              10000
+    total time taken by event execution: 9.1293s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.24ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1293/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1323s
+    total number of events:              10000
+    total time taken by event execution: 9.1306s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1306/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1321s
+    total number of events:              10000
+    total time taken by event execution: 9.1304s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1304/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1322s
+    total number of events:              10000
+    total time taken by event execution: 9.1305s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.20ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1305/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1332s
+    total number of events:              10000
+    total time taken by event execution: 9.1315s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1315/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1315s
+    total number of events:              10000
+    total time taken by event execution: 9.1298s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.18ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1298/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1318s
+    total number of events:              10000
+    total time taken by event execution: 9.1301s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.15ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1301/0.00
+
+sysbench 0.5:  multi-threaded system evaluation benchmark
+
+Running the test with following options:
+Number of threads: 1
+Random number generator seed is 0 and will be ignored
+
+
+Primer numbers limit: 10000
+
+Threads started!
+
+
+General statistics:
+    total time:                          9.1252s
+    total number of events:              10000
+    total time taken by event execution: 9.1235s
+    response time:
+         min:                                  0.91ms
+         avg:                                  0.91ms
+         max:                                  1.14ms
+         approx.  95 percentile:               0.92ms
+
+Threads fairness:
+    events (avg/stddev):           10000.0000/0.00
+    execution time (avg/stddev):   9.1235/0.00
+
